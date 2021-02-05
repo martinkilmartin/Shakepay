@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Environment Variables
+* **.env**
+  * REACT_APP_ENDPOINT_TRANSACTION_HISTORY=https://shakepay.github.io/programming-exercise/web/transaction_history.json
+  * REACT_APP_ENDPOINT_HISTORICAL_BTC_RATE=https://shakepay.github.io/programming-exercise/web/rates_CAD_BTC.json
+  * REACT_APP_ENDPOINT_HISTORICAL_ETH_RATE=https://shakepay.github.io/programming-exercise/web/rates_CAD_ETH.json
+* **.env.production**
+  * GENERATE_SOURCEMAP=false
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
